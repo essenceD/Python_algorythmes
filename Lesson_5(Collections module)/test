@@ -1,0 +1,34 @@
+hello world motherfucker hello
+[[['h', ' '], ['r', 'e']], [['o', [['w', 'd'], ['m', 't']]], [[['f', 'u'], ['c', 'k']], 'l']]]
+[[['h', ' '], ['r', 'e']], [['o', [['w', 'd'], ['m', 't']]], [[['f', 'u'], ['c', 'k']], 'l']]]
+[[[' ', 'h'], ['r', 'e']], [['o', [['c', 'd'], ['f', 'k']]], [[['m', 't'], ['u', 'w']], 'l']]]
+[[[' ', 'h'], ['r', 'e']], [['o', [['c', 'd'], ['f', 'k']]], [[['m', 't'], ['u', 'w']], 'l']]]
+letter <h> address: 0 -> 0 -> 0
+letter <e> address: 0 -> 1 -> 1
+letter <l> address: 1 -> 1 -> 1
+letter <o> address: 1 -> 0 -> 0
+letter < > address: 0 -> 0 -> 1
+letter <w> address: 1 -> 0 -> 1 -> 0 -> 0
+letter <r> address: 0 -> 1 -> 0
+letter <d> address: 1 -> 0 -> 1 -> 0 -> 1
+letter <m> address: 1 -> 0 -> 1 -> 1 -> 0
+letter <t> address: 1 -> 0 -> 1 -> 1 -> 1
+letter <f> address: 1 -> 1 -> 0 -> 0 -> 0
+letter <u> address: 1 -> 1 -> 0 -> 0 -> 1
+letter <c> address: 1 -> 1 -> 0 -> 1 -> 0
+letter <k> address: 1 -> 1 -> 0 -> 1 -> 1
+
+letter <h> address: 0 -> 0 -> 0
+letter <e> address: 0 -> 1 -> 1
+letter <l> address: 1 -> 1 -> 1
+letter <o> address: 1 -> 0 -> 0
+letter < > address: 0 -> 0 -> 1
+letter <w> address: 1 -> 0 -> 1 -> 0 -> 0
+letter <r> address: 0 -> 1 -> 0
+letter <d> address: 1 -> 0 -> 1 -> 0 -> 1
+letter <m> address: 1 -> 0 -> 1 -> 1 -> 0
+letter <t> address: 1 -> 0 -> 1 -> 1 -> 1
+letter <f> address: 1 -> 1 -> 0 -> 0 -> 0
+letter <u> address: 1 -> 1 -> 0 -> 0 -> 1
+letter <c> address: 1 -> 1 -> 0 -> 1 -> 0
+letter <k> address: 1 -> 1 -> 0 -> 1 -> 1
